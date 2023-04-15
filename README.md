@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://note.com/uremy" target="_blank" rel="noreferrer"><img src="https://github.com/Uremy/Uremy/blob/main/ATAOT.jpg" alt="my banner"></a>
+</p>
+
 <h2>
 🌱 Just someone who enjoys browsing through respositories 
 </h2>
