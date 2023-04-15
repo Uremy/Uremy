@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://note.com/uremy" target="_blank" rel="noreferrer"><img src="https://github.com/Uremy/Uremy/blob/main/ATAOT.jpg" alt="my banner"></a>
+  <a href="https://note.com/uremy" target="_blank" rel="noreferrer"><img src="https://github.com/Uremy/Uremy/blob/620261e2051faf93578e5c752c67e1774e98fc98/AOTA.jpg" alt="my banner"></a>
 </p>
 
 <h2>
