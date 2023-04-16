@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-🍃 Just someone who enjoys browsing through respositories 🍃
+Just someone who enjoys browsing through respositories
 </h2>
 
 <div align="center">
