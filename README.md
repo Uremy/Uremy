@@ -6,6 +6,11 @@
 Just someone who enjoys browsing through respositories
 </h2>
 
+<p align="center">
+<img title="a title" alt="Alt text" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg">
+</h2>
+
+
 <div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/721947453406052353)](https://discord.com/users/721947453406052353)
