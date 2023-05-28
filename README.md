@@ -1,21 +1,23 @@
-<p align="center">
-  <a href="https://note.com/uremy" target="_blank" rel="noreferrer"><img src="https://github.com/Uremy/Uremy/blob/73e1ede0a73ae415bf76f8296dbf0ca63ced0559/AOT.jpg" alt="my banner"></a>
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="25" height="25" /> Well met!
+</h1>
 
-<h2 align="center">
+```sh
 Just someone who enjoys browsing through respositories
-</h2>
+```
 
-<p align="center">
-<img title="a title" alt="Alt text" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg">
-</h2>
+<img align="left" src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="400" />
+
+```haskell
+Uremy-Taimilog
+-------------------------
+os       • Windows
+           Android
+interest • Fluent Design
+           Material You
+why?     • Just Chilling
+```
 
 
-<div align="center">
-  
 [![Discord Presence](https://lanyard.cnrad.dev/api/721947453406052353)](https://discord.com/users/721947453406052353)
 
-</div>
-
-## Interested in Fluid Design and Material You
-<h3>Have a nice time✨</h3>
