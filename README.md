@@ -18,7 +18,7 @@ os       • windows
            android
 interest • fluent design
            material you
-why?     • just Chilling
+why?     • just chilling
 ```
 
 
