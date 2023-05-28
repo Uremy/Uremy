@@ -6,7 +6,10 @@
 Just someone who enjoys browsing through respositories
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="400" />
+<a href="note.com/Uremy">
+  <img align="left" src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="400" />
+</a>
+
 
 ```haskell
 Uremy-Taimilog
