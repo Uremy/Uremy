@@ -12,13 +12,13 @@ Just someone who enjoys browsing through respositories
 
 
 ```haskell
-Uremy-Taimilog
+uremy-taimilog
 -------------------------
-os       • Windows
-           Android
-interest • Fluent Design
-           Material You
-why?     • Just Chilling
+os       • windows
+           android
+interest • fluent design
+           material you
+why?     • just Chilling
 ```
 
 
