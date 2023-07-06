@@ -3,7 +3,7 @@
 </h1>
 
 ```sh
-Just someone who enjoys browsing through respositories
+Enjoying browsing through respositories
 ```
 
 <a href="note.com/Uremy">
