@@ -20,7 +20,3 @@ interest • fluent design
            material you
 why?     • just chilling
 ```
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/721947453406052353)](https://discord.com/users/721947453406052353)
-
