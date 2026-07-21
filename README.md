@@ -1,40 +1,37 @@
-<div align="right">
-  <code>SYS_VER // 2.0.4</code>
-  <code>STATUS // CHILLING</code>
-</div>
-
-<br />
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="28" height="28" style="vertical-align: -5px;" /> Well met.
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="24" height="24" /> uremy // taimilog
 </h1>
 
-> *Enjoying browsing through repositories.*
+<p align="left">
+  <code>&nbsp;SYS.ID : 894-B&nbsp;</code>
+  <code>&nbsp;MODE : AVANT-GARDE&nbsp;</code>
+</p>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://note.com/Uremy">
+        <img src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="100%" />
+      </a>
+      <br /><br />
+      <sub>╱╱ <i>Enjoying browsing through repositories.</i></sub>
+    </td>
+    <td width="55%" valign="top">
+
+### ◈ Protocol & Interests
+
+El diseño no es solo lo que se ve, sino cómo funciona el sistema. Explorando la intersección entre formas fluidas y composición modular.
 
 <br />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="38%" valign="top">
-      <a href="https://note.com/Uremy">
-        <img src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="100%" alt="Visual Asset" />
-      </a>
-    </td>
-    <td width="4%" valign="top"></td>
-    <td width="58%" valign="top">
-      
-```yaml
-# uremy-taimilog // core_preferences
-------------------------------------
-os:
-  - windows
-  - android
+<details open>
+<summary><b><code>[+] VIEW_SYSTEM_SPECS</code></b></summary>
 
-interests:
-  - fluent design
-  - material you
-  - typography & systems
+<br />
 
-current_state:
-  status: just chilling
-  focus: avant-garde concepts
+```http
+OS         : Windows / Android
+INTERESTS  : Fluent Design / Material You
+VIBE       : Dystopian Elegance / Just Chilling
