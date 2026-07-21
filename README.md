@@ -1,67 +1,69 @@
 <div align="right">
-  <kbd>&nbsp;SYS_VER // 3.0.0-PROD&nbsp;</kbd>
-  <kbd>&nbsp;STATUS // CHILLING&nbsp;</kbd>
-  <kbd>&nbsp;LOC // MX&nbsp;</kbd>
+  <kbd> SYS_VER // 3.0.0 </kbd>
+  <kbd> STATUS // CHILLING ( ˘▽˘)っ♨ </kbd>
 </div>
+
+<br />
+
+# <samp>┌── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="28" height="28" style="vertical-align: -5px;" /> Well met. // ( ◡‿◡ *) ──┐</samp>
+
+> [!NOTE]
+> **`CURRENT_STATE // ONLINE`**
+> *Enjoying browsing through repositories. Exploring avant-garde concepts, typography systems, and modular forms.*
 
 <br />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td colspan="3" valign="bottom">
-      <h1>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="32" height="32" style="vertical-align: -6px;" /> Well met.
-      </h1>
-      <blockquote>
-        <p><em>&ldquo;Enjoying browsing through repositories. Focusing on avant-garde concepts and modular systems.&rdquo;</em></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" height="15"></td>
-  </tr>
-  <tr>
-    <!-- Columna Izquierda: Visual Asset -->
-    <td width="35%" valign="top">
+    <td width="40%" valign="top" align="center">
       <a href="https://note.com/Uremy">
-        <picture>
-          <!-- Soporte nativo de GitHub para cambiar imágenes según el tema del usuario -->
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg">
-          <img src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="100%" alt="Visual Asset" />
-        </picture>
+        <img src="https://raw.githubusercontent.com/Uremy/Uremy/main/AOTP.jpg" width="95%" alt="Visual Asset" style="border-radius: 4px;" />
       </a>
       <br /><br />
-      <div align="center">
-        <code>[ SYNCED_SYSTEM ]</code>
-      </div>
+      <code>[▼∀▼]† ASSET_REF // AOTP</code>
     </td>
-    
-    <!-- Espaciador Asimétrico -->
-    <td width="3%"></td>
-    
-    <!-- Columna Derecha: Core Preferences & Telemetry -->
-    <td width="62%" valign="top">
-      <table width="100%" border="0" cellspacing="0" cellpadding="8">
-        <tr>
-          <td>
-            <code>// ARCHITECTURE_&_AESTHETICS</code>
-            <hr />
-          </td>
-        </tr>
-      </table>
-      
+    <td width="3%" valign="top"></td>
+    <td width="57%" valign="top">
+
+### <samp>❖ CORE_PREFERENCES</samp>
+
 ```yaml
-# uremy-taimilog // core_preferences
+# uremy-taimilog // system_config
 ------------------------------------
-os:
-  - windows [11_NT]
-  - android [AOSP]
+os: [ windows, android ]
+env: [ fluent design, material you ]
 
 design_language:
-  - fluent design system (microsoft)
-  - material you // dynamic color
-  - typography, print & asymmetric grids
+  - typography & grid systems
+  - retrofuturistic minimalism
+  - asymmetric industrial elegance
 
-current_state:
-  status: just chilling
-  focus: avant-garde concepts & minimalist composition
+status_log:
+  current: just chilling // (￣▽￣)ノ
+  focus: avant-garde concepts
+  aesthetic: dystopian elegance
+```
+
+<br />
+
+<details>
+<summary><kbd> ► SYSTEM_METRICS // ADVANCED_VIEW [ ◉ _ ◉ ] </kbd></summary>
+
+<br />
+
+| <samp>MODULE</samp> | <samp>SPECIFICATION</samp> | <samp>STATE</samp> |
+| :--- | :--- | :--- |
+| `[COMPOSITION]` | Modular Seamless Forms | `ACTIVE (★ω★)/` |
+| `[TYPOGRAPHY]` | Monospace Precision | `LOCK // 100%` |
+| `[INTERFACE]` | Microsoft Fluent x Mecha | `ONLINE` |
+
+</details>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <sup><samp>═══ ⋆★⋆ ═══ END OF LINE // SEE YOU SPACE COWBOY ( ╥﹏╥) ═══ ⋆★⋆ ═══</samp></sup>
+</div>
